@@ -20,9 +20,13 @@ Name: Erton Kastrati
 - [ ] Session zu Reverse Proxy anfragen
 - [ ] Reverse Proxy (Caddy) installieren auf Homelab
 
+## Tages-Reflexion
+- Ich habe heute nicht wirklich viel gemacht die Session war für heute nicht gerade wichtig und habe stattdessen ein bisschen Java-tutorials geschaut.
 
-## Planung x.x.2026
-
+## Planung 27.03.2026
+- [ ] Session zu Reverse Proxy anfragen
+- [ ] Reverse Proxy (Caddy) installieren auf Homelab
+- [ ] Homeassistant Container machen
 
 
 ## Reflexion
