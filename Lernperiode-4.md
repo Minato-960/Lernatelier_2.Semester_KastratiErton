@@ -5,7 +5,7 @@ Name: Erton Kastrati
 
 ## Grob-Planung
 ### Noten
--Meine Noten sehen nicht schlecht aus
+- Meine Noten sehen nicht schlecht aus
 
 ### Veränderungen
 - Die Planung aktiv zu führen.
@@ -30,11 +30,19 @@ Name: Erton Kastrati
 - Heute ein Stromkreislauf auf Tinkercad gemacht dass mit dem Klick von einem Button ein LED licht an macht. Daran gescheitert ein Programm zu schreiben dass das Licht an macht und mir zeigt auf einem Display ob ON oder OFF ist.
 
 ## Planung 29.05.2026
-- Die Memory Website ausbauen mit mehreren funktionen.
-- Ich will in Java mindestens 2 neue Sachen lernen.
+- [x] Die Memory Website ausbauen mit mehreren funktionen.
+- [x] Ich will in Java mindestens 2 neue Sachen lernen.
 
 ## Tages-Reflexion 22.05.2026
 - Ich habe die Memory-Website erstellt und auf mein Homelab geladen um sie zuhause zu spielen.
+
+## Planung 05.06.2026
+- [ ] Ich will in Java mindestens 3 weitere neue sachen lernen.
+- [ ] Ein 3D-Modell machen von etwas (Ball, Haus, Flasche...).
+- [ ] Das 3D-Modell in eine Website implementieren und Interaktiv machen (clickbar, drehbar).
+
+## Tages-Reflexion 29.05.2026
+- Ich habe heute 3D-Modelle in Blender gemacht und versucht diesen eine Animation zu geben.
 
 ## Reflexion
 
