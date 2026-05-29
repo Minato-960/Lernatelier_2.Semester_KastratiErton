@@ -1,9 +1,11 @@
 # Lern_Periode 4
 Name: Erton Kastrati
 
-24.04.2026 bis 
+24.04.2026 bis 26.06.2026
 
 ## Grob-Planung
+- Ich will Java und Javascript besser verstehen.
+- 
 ### Noten
 - Meine Noten sehen nicht schlecht aus
 
