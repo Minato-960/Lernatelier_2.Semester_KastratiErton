@@ -42,19 +42,20 @@ Name: Erton Kastrati
 - Ich habe heute 3D-Modelle in Blender gemacht und versucht diesen eine Animation zu geben.
 
 ### Planung 05.06.2026
-- [ ] Ich will in Java mindestens 3 weitere neue sachen lernen.
+- [x] Ich will in Java mindestens 3 weitere neue sachen lernen.
 - [ ] Ein 3D-Modell machen von etwas (Ball, Haus, Flasche...).
 - [ ] Das 3D-Modell in eine Website implementieren und Interaktiv machen (clickbar, drehbar).
 
 *Tages-Reflexion 05.06.2026*
-- 
+- Ich habe heute im Java Video Paket weiter gemacht.
+
 ### Planung 12.06.2026
-- [ ] .
+- [ ] In Java weiter im Video-Paket voranschreiten
 - [ ] .
 - [ ] .
 
 *Tages-Reflexion 12.06.2026*
-- 
+- Reflexion
 
 ## Lernperiode Reflexion
 - Hier am 26.06.2026 ausfüllen
