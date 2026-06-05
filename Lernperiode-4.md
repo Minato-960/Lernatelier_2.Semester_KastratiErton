@@ -49,9 +49,9 @@ Name: Erton Kastrati
 *Tages-Reflexion 05.06.2026*
 - 
 ### Planung 12.06.2026
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] .
+- [ ] .
+- [ ] .
 
 *Tages-Reflexion 12.06.2026*
 - 
