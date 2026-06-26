@@ -5,18 +5,19 @@ Name: Erton Kastrati
 
 ## Grob-Planung
 - Ich will Java und Javascript besser verstehen.
-- 
+
 ### Noten
 - Meine Noten sehen nicht schlecht aus
 
 ### Veränderungen
 - Die Planung aktiv zu führen.
+
 ### Projekte / neue Technologien
 - Ich möchte Java lernen und im allgemeinen mehr Programmieren (C# und Java)
 
 ### Generelle Ziele
 - Ich möchte mit Java einen Casino Mod in Minecraft Programmieren.
-- Ich möchte Java verstehen und Anwenden können
+- Ich möchte Java verstehen und Anwenden können.
 
 ## Tagesplanungen
 
@@ -44,8 +45,8 @@ Name: Erton Kastrati
 
 ### Planung 05.06.2026
 - [x] Ich will in Java mindestens 3 weitere neue sachen lernen.
-- [ ] Ein 3D-Modell machen von etwas (Ball, Haus, Flasche...).
-- [ ] Das 3D-Modell in eine Website implementieren und Interaktiv machen (clickbar, drehbar).
+- [x] Ein 3D-Modell machen von etwas (Ball, Haus, Flasche...).
+- [x] Das 3D-Modell in eine Website implementieren und Interaktiv machen (clickbar, drehbar).
 
 *Tages-Reflexion 05.06.2026*
 - Ich habe heute im Java Video Paket weiter gemacht.
@@ -76,4 +77,4 @@ Name: Erton Kastrati
 - Ich habe es nicht zeitlich geschafft einen Taschenrechner zu programmieren, dafür habe ich gelernt Strings und Switches in Java zu verstehen und zu nutzen.
 
 ## Lernperiode Reflexion
-- Ich habe in dieser Lernperiode viel über Java gelernt, Java ist immerhin ein grosse und nicht so einfache Sprachen trotzdem habe ich das beste draus gemacht und mir beim Lernen mühe gegeben. Ich habe es einigermassen geschafft die Lernperiode zeitgerecht zu führen und die Arbeitspakete die ich mir gemacht habe auch zu lösen.
+- Ich habe in dieser Lernperiode viel über Java gelernt, Java ist immerhin ein grosse und nicht so einfache Sprachen trotzdem habe ich das beste draus gemacht und mir beim Lernen mühe gegeben. Ich habe es einigermassen geschafft die Lernperiode zeitgerecht zu führen und die Arbeitspakete die ich mir gemacht habe auch zu lösen. Ich habe ein bisschen Javascript programmiert im Modul 293(Webdev) und konnte so mit Websiten ein bisschen experimentieren. Das Minecraft Projekt selber blieb unangetastet da ich selbst erst Java verstehen muss bevor ich anfange etwas zu machen.
