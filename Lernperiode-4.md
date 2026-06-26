@@ -58,12 +58,12 @@ Name: Erton Kastrati
 - Ich habe in Java neues dazu gelernt.
 
 ### Planung 19.06.2026
-- [ ] In Java weiter im Video-Paket voranschreiten
+- [x] In Java weiter im Video-Paket voranschreiten
 - [ ] .
 - [ ] .
 
 *Tages-Reflexion 19.06.2026*
-- Reflexion
+- Ich habe am Paket weiter gemacht und bin mit mehr als der hälfte fertig.
 
 ## Lernperiode Reflexion
-- Hier am 26.06.2026 ausfüllen
+- 
