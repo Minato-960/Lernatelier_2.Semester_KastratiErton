@@ -65,5 +65,13 @@ Name: Erton Kastrati
 *Tages-Reflexion 19.06.2026*
 - Ich habe am Paket weiter gemacht und bin mit mehr als der hälfte fertig.
 
+### Planung 26.06.2026
+- [ ] Java Video-Paket weitermachen
+- [ ] .
+- [ ] .
+
+*Tages-Reflexion 26.06.2026*
+- 
+
 ## Lernperiode Reflexion
 - 
