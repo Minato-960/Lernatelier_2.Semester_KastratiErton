@@ -73,7 +73,7 @@ Name: Erton Kastrati
 - [ ] Einen einfachen Taschenrecher programmieren
 
 *Tages-Reflexion 26.06.2026*
-- 🙂
+- Ich habe es nicht zeitlich geschafft einen Taschenrechner zu programmieren, dafür habe ich gelernt Strings und Switches in Java zu verstehen und zu nutzen.
 
 ## Lernperiode Reflexion
-- Blablabla super 👍
+- Ich habe in dieser Lernperiode viel über Java gelernt, Java ist immerhin ein grosse und nicht so einfache Sprachen trotzdem habe ich das beste draus gemacht und mir beim Lernen mühe gegeben. Ich habe es einigermassen geschafft die Lernperiode zeitgerecht zu führen und die Arbeitspakete die ich mir gemacht habe auch zu lösen.
